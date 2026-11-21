@@ -6,6 +6,10 @@ then scan it on the way back. The scan flags the slots that look empty; you conf
 each one; the report is a plain list you can paste into the rental note or the
 delivery ticket.
 
+## Live app
+
+https://onlyjepe.github.io/ghost-check/
+
 Built for the Kiroween 2026 Costume Contest. The specs in `.kiro/specs/` were written
 before the code, and both specs are still the contract the app follows.
 
