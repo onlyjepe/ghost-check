@@ -1,8 +1,8 @@
 {
   "kit": {
-    "reference": "/demo/kit-reference.jpg",
+    "reference": "demo/kit-reference.jpg",
     "scans": [
-      "/demo/kit-return.jpg"
+      "demo/kit-return.jpg"
     ],
     "slots": [
       {
@@ -38,9 +38,9 @@
     ]
   },
   "parcel": {
-    "reference": "/demo/parcel-reference.jpg",
+    "reference": "demo/parcel-reference.jpg",
     "scans": [
-      "/demo/parcel-return.jpg"
+      "demo/parcel-return.jpg"
     ],
     "slots": [
       {
