@@ -1,0 +1,73 @@
+{
+  "kit": {
+    "reference": "/demo/kit-reference.jpg",
+    "scans": [
+      "/demo/kit-return.jpg"
+    ],
+    "slots": [
+      {
+        "x": 0.25,
+        "y": 0.375,
+        "label": ""
+      },
+      {
+        "x": 0.5,
+        "y": 0.375,
+        "label": ""
+      },
+      {
+        "x": 0.75,
+        "y": 0.375,
+        "label": ""
+      },
+      {
+        "x": 0.25,
+        "y": 0.65,
+        "label": ""
+      },
+      {
+        "x": 0.5,
+        "y": 0.65,
+        "label": ""
+      },
+      {
+        "x": 0.75,
+        "y": 0.65,
+        "label": ""
+      }
+    ]
+  },
+  "parcel": {
+    "reference": "/demo/parcel-reference.jpg",
+    "scans": [
+      "/demo/parcel-return.jpg"
+    ],
+    "slots": [
+      {
+        "x": 0.275,
+        "y": 0.375,
+        "label": ""
+      },
+      {
+        "x": 0.5833,
+        "y": 0.375,
+        "label": ""
+      },
+      {
+        "x": 0.75,
+        "y": 0.375,
+        "label": ""
+      },
+      {
+        "x": 0.3333,
+        "y": 0.6625,
+        "label": ""
+      },
+      {
+        "x": 0.6667,
+        "y": 0.6625,
+        "label": ""
+      }
+    ]
+  }
+}
