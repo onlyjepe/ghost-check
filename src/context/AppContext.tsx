@@ -87,7 +87,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
   const openSample = async (next: Mode) => {
     reset();
     setMode(next);
-    const response = await fetch(`${import.meta.env.BASE_URL}demo/samples.json`);
+    const response = await fetch(new URL('demo/samples.json', document.baseURI));
     const data = await response.json();
     const chosen: Sample = data[next];
     setSample(chosen);
